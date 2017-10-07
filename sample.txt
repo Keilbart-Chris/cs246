@@ -2,4 +2,7 @@ welcome to using git. Isn't this obnoxious?
 
 We are testing a pull.
 
+<<<<<<< HEAD
 causing problems
+=======
+
